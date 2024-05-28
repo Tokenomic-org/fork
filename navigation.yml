@@ -1,0 +1,17 @@
+ - text: Home
+   url: "/"
+
+ - text: About
+   url: "/about"
+
+ - text: Training
+   url: "/training"
+
+ - text: Services
+   url: "/services"
+
+ - text: "News"
+   url: "/blog.html"
+
+ - text: "Contact"
+   url: "contact"
